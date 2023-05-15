@@ -11,7 +11,7 @@ package studentsdetials;
 public class StudentsDetials {
 
     /**
-     * @param args the command line arguments
+     * @param args the command line arguments gandu
      */
     public static void main(String[] args) {
         Students [] list = new list();
