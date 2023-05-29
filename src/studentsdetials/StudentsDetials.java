@@ -11,7 +11,8 @@ package studentsdetials;
 public class StudentsDetials {
 
     /**
-     * @param args the command line arguments gandu
+     * @param args the command line arguments gandu is sachin
+     * gfjkfdhjghfdhgkjfhfgdjgfhg
      */
     public static void main(String[] args) {
         Students [] list = new list();
